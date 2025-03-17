@@ -1,0 +1,16 @@
+{
+  "name": "wb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fizzxydev/baileys-pro": "^8.6.10",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
